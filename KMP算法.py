@@ -37,3 +37,5 @@ class Solution:
 s = Solution()
 n = s.strStr('aabaabaaf', 'aabaaf')
 print(n)
+
+print([range(3)])
